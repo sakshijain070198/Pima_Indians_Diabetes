@@ -60,11 +60,11 @@ Studying the model results, we can infer that older Pima women who have higher I
 
 # File Structure
 
-`DataSet\PimaIndianDiabetesData`: Detailed report on the approach,analysis and outcome from the dataset
+`diabetes.csv`: Raw Pima dataset
 
-`PythonFile\PIMA_Diabetes_EDA_Modelling`: This python file contains the EDA(Univariate and bivariate analysis), imputation methods and predictive modeling for the dataset
+`PIMA Diabetes EDA.ipynb`: This python file contains the EDA(Univariate and bivariate analysis), imputation methods and predictive modeling for the dataset
 
-`Report\Report`: Detailed report on the approach,analysis and outcome from the dataset
+`Report`: Detailed report on the approach,analysis and outcome from the dataset
 
 
 # References
@@ -89,4 +89,4 @@ https://www.foodandnutritionjournal.org/volume7number2/significance-of-health-re
 
 
 # Contact
-Sakshi Jain- sakshijain070198@gmail.com
+- Sakshi Jain- sakshijain070198@gmail.com
